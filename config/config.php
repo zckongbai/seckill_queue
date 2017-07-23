@@ -12,8 +12,8 @@ $config['redis'] = array(
 
 $config['seckill'] = array(
 		'host'	=>	'http://127.0.0.1',
-		'port'	=>	'8891',
-		'goods_buy'	=>	'http://127.0.0.1:8891/goods/buy',
+		'port'	=>	'9502',
+		'goods_buy'	=>	'http://127.0.0.1:9502/goods/buy',
 	);
 
 return $config;
